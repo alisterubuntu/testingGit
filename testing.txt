@@ -1,8 +1,7 @@
 code line 1
 code line 2
 code line 3
-code line 4 alister fixed staging last night here 
-code line 4.1 alisters fixes for staging
+code line 4
 code line 5
 code line 6
 code line 7
@@ -12,5 +11,4 @@ code line 10
 code line 11
 code line 12
 code line 13
-code line 13.1 deb addes function for login
 code line 14
